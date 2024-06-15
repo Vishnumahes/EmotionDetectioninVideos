@@ -1,0 +1,29 @@
+/*
+body{
+    background-image:url("../Images/bg1.jpg");
+}
+*/
+
+body{
+    background:url("../Images/catbg.jpg")
+    no-repeat center center fixed;
+    background-size: cover;
+}
+i{
+    color: red;
+}
+div
+{
+    background-color: aliceblue;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    width: 2px
+    border:3px solid red.
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 300px;
+    font-family: 'Playfair Display', serif;
+}

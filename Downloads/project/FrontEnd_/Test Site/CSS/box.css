@@ -1,0 +1,22 @@
+
+
+    
+
+.Red
+{
+  width: 300px;
+  height: 100px;
+  text-decoration-color: blueviolet;
+  border: 2px solid black;
+   
+}
+
+.blue
+{
+   padding: 50px;
+   width: 300px;
+   box-sizing: border-box;
+   text-decoration-color: fuchsia;
+    border: 2px solid black;
+}
+    
